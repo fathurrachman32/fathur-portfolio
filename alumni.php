@@ -67,10 +67,10 @@
 
           <nav id="one-page-menu" class="vertical-menu my-5">
             <ul class="menu-list list-unstyled">
-              <li><a href="index.php#home" class="nav-link">Home</a></li>
-              <li><a href="index.php#about" class="nav-link">About</a></li>
-              <li><a href="index.php#experience" class="nav-link">Portfolio</a></li>
-              <li><a href="index.php#contact" class="nav-link">Contact</a></li>
+              <li><a href="index.html#home" class="nav-link">Home</a></li>
+              <li><a href="index.html#about" class="nav-link">About</a></li>
+              <li><a href="index.html#experience" class="nav-link">Portfolio</a></li>
+              <li><a href="index.html#contact" class="nav-link">Contact</a></li>
               <li>
                     <a href="files/cv-fathur-terbaru.pdf" target="_blank" download="FathurRachman_CV.pdf"
                     class="nav-link fw-semibold text-dark text-decoration-none"
